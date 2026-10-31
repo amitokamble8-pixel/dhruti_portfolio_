@@ -28,7 +28,7 @@ export const PROFILE = {
   },
   cv: "", 
   photo: "",
-  aboutPhoto: "/placeholder.jpg",
+  aboutPhoto: "",
 };
 
 export const NAV = [
